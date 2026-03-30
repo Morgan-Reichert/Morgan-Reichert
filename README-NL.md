@@ -33,7 +33,7 @@
 
 <br/>
 
-> *✨ Profiel herbouwd in 2025 — want een goede dev weet ook zijn online aanwezigheid te refactoren.*
+> *✨ Profiel herbouwd in 2025, want een goede dev weet ook zijn online aanwezigheid te refactoren.*
 
 </div>
 
@@ -45,9 +45,9 @@
 <tr>
 <td valign="top" width="55%">
 
-### Morgan Reichert — Webontwikkelaar & Oprichter van STARIAX
+### Morgan Reichert • Webontwikkelaar & Oprichter van STARIAX
 
-17-jarige Brusselaar, al zo lang ik me kan herinneren gepassioneerd door tech. Ik ben gespecialiseerd in **webontwikkeling** en de afgelopen maanden integreer ik **artificiële intelligentie** in al mijn projecten — om processen te automatiseren, gebruikerservaring te verbeteren en echt intelligente apps te bouwen.
+17-jarige Brusselaar, al zo lang ik me kan herinneren gepassioneerd door tech. Ik ben gespecialiseerd in **webontwikkeling** en de afgelopen maanden integreer ik **artificiële intelligentie** in al mijn projecten, om processen te automatiseren, gebruikerservaring te verbeteren en echt intelligente apps te bouwen.
 
 Wat mij onderscheidt? Elk app die ik bouw heeft een **sociale dimensie**: inspelen op een medische nood, een veiligheidsprobleem aanpakken, of gewoon de mentale belasting van het dagelijkse leven verlichten.
 
@@ -68,7 +68,7 @@ Wat mij onderscheidt? Elk app die ik bouw heeft een **sociale dimensie**: inspel
 </tr>
 </table>
 
-> 💡 *Ik geloof dat technologie mensen moet dienen — niet andersom.*
+> 💡 *Ik geloof dat technologie mensen moet dienen, niet andersom.*
 
 ---
 
@@ -119,7 +119,7 @@ Wat mij onderscheidt? Elk app die ik bouw heeft een **sociale dimensie**: inspel
 
 ---
 
-## 🚀 STARIAX — Mijn Projecten
+## 🚀 STARIAX • Mijn Projecten
 
 <div align="center">
 
@@ -162,7 +162,7 @@ AI is een concreet hulpmiddel, geen modewoord. Ik integreer het in elke app om r
 
 **🚑 Sociale Impact**
 
-Mijn projecten spelen in op echte behoeften: veiligheid, welzijn, productiviteit. Als gepassioneerde EHBO'er geloof ik dat tech tijd kan besparen — en soms veel meer dan dat.
+Mijn projecten spelen in op echte behoeften: veiligheid, welzijn, productiviteit. Als gepassioneerde EHBO'er geloof ik dat tech tijd kan besparen, en soms veel meer dan dat.
 
 </td>
 </tr>

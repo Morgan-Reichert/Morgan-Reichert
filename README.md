@@ -33,7 +33,7 @@
 
 <br/>
 
-> *✨ Profil restructuré en 2025 — parce qu'un bon dev sait aussi refactoriser sa présence en ligne.*
+> *✨ Profil restructuré en 2025, parce qu'un bon dev sait aussi refactoriser sa présence en ligne.*
 
 </div>
 
@@ -45,9 +45,9 @@
 <tr>
 <td valign="top" width="55%">
 
-### Morgan Reichert — Développeur Web & Fondateur STARIAX
+### Morgan Reichert • Développeur Web & Fondateur STARIAX
 
-Bruxellois de 17 ans, passionné de tech depuis toujours. Je suis spécialisé en **développement web** et depuis quelques mois, j'intègre **l'intelligence artificielle** dans la totalité de mes projets — pour automatiser les processus, faciliter la vie des utilisateurs et créer des expériences vraiment intelligentes.
+Bruxellois de 17 ans, passionné de tech depuis toujours. Je suis spécialisé en **développement web** et depuis quelques mois, j'intègre **l'intelligence artificielle** dans la totalité de mes projets, pour automatiser les processus, faciliter la vie des utilisateurs et créer des expériences vraiment intelligentes.
 
 Ce qui me différencie ? Chacune de mes apps a une **dimension sociale** : répondre à un besoin sanitaire, sécuritaire, ou simplement alléger la charge mentale du quotidien.
 
@@ -68,7 +68,7 @@ Ce qui me différencie ? Chacune de mes apps a une **dimension sociale** : répo
 </tr>
 </table>
 
-> 💡 *Je crois que la technologie doit être au service des gens — pas l'inverse.*
+> 💡 *Je crois que la technologie doit être au service des gens, pas l'inverse.*
 
 ---
 
@@ -119,7 +119,7 @@ Ce qui me différencie ? Chacune de mes apps a une **dimension sociale** : répo
 
 ---
 
-## 🚀 STARIAX — Mes Projets
+## 🚀 STARIAX • Mes Projets
 
 <div align="center">
 
@@ -184,7 +184,7 @@ Ce qui me différencie ? Chacune de mes apps a une **dimension sociale** : répo
 </td>
 <td width="62%" valign="top">
 
-**🧠 MindScope v1.0 — Lancement officiel**
+**🧠 MindScope v1.0 • Lancement officiel**
 `📅 Mars 2025`
 
 MindScope est en ligne ! L'outil d'analyse de pensée assisté par IA est maintenant disponible. Suivez vos réflexions, identifiez vos patterns mentaux et progressez avec l'aide de l'intelligence artificielle.
@@ -204,7 +204,7 @@ MindScope est en ligne ! L'outil d'analyse de pensée assisté par IA est mainte
 </td>
 <td width="62%" valign="top">
 
-**🌙 NightWatch — Bêta ouverte**
+**🌙 NightWatch • Bêta ouverte**
 `📅 Mars 2025`
 
 NightWatch entre en phase de test ! L'app iOS + Web de veille sociale intelligente est disponible pour les bêta-testeurs. Tu veux faire partie des premiers ? Contacte-moi.
@@ -224,7 +224,7 @@ NightWatch entre en phase de test ! L'app iOS + Web de veille sociale intelligen
 </td>
 <td width="62%" valign="top">
 
-**✨ Stariax Showcase — Site vitrine live**
+**✨ Stariax Showcase • Site vitrine live**
 `📅 Mars 2025`
 
 Le site officiel du groupe STARIAX est en ligne. Il centralise toutes les apps, présente l'écosystème et évolue en continu avec chaque nouveau projet.
@@ -242,10 +242,10 @@ Le site officiel du groupe STARIAX est en ligne. Il centralise toutes les apps, 
 </td>
 <td width="62%" valign="top">
 
-**⚡ Challenger IA — En cours de développement**
+**⚡ Challenger IA • En cours de développement**
 `📅 À venir · 2025`
 
-La prochaine app STARIAX est en cours. Une plateforme de challenges gamifiés propulsée par l'IA — suivez les mises à jour ici ou contactez-moi pour être notifié au lancement.
+La prochaine app STARIAX est en cours. Une plateforme de challenges gamifiés propulsée par l'IA, suivez les mises à jour ici ou contactez-moi pour être notifié au lancement.
 
 [![M'avertir au lancement](https://img.shields.io/badge/🔔%20M'avertir-7c3aed?style=flat-square)](mailto:morgan.reichert.pro@outlook.com?subject=Notify%20Challenger%20IA)
 
@@ -262,7 +262,7 @@ La prochaine app STARIAX est en cours. Une plateforme de challenges gamifiés pr
 
 > **Tu veux être parmi les premiers à tester mes applications ?**
 > Je recherche des bêta-testeurs pour **MindScope**, **NightWatch** et **Challenger IA**.
-> Pas besoin d'être développeur — juste curieux et honnête dans tes retours !
+> Pas besoin d'être développeur, juste curieux et honnête dans tes retours !
 
 <br/>
 
@@ -272,7 +272,7 @@ La prochaine app STARIAX est en cours. Une plateforme de challenges gamifiés pr
 
 <br/>
 
-*Envoie simplement un mail avec l'app qui t'intéresse — je te recontacte sous 48h* 📬
+*Envoie simplement un mail avec l'app qui t'intéresse, je te recontacte sous 48h* 📬
 
 </div>
 
@@ -293,7 +293,7 @@ L'IA est un levier concret, pas un buzzword. Je l'intègre dans chaque app pour 
 
 **🚑 Impact Social**
 
-Mes projets répondent à des besoins réels : sécurité, bien-être, productivité. Passionné de secourisme, je crois que la tech peut sauver du temps — et parfois bien plus.
+Mes projets répondent à des besoins réels : sécurité, bien-être, productivité. Passionné de secourisme, je crois que la tech peut sauver du temps, et parfois bien plus.
 
 </td>
 </tr>
@@ -309,7 +309,7 @@ L'œil du photographe influence mon code : attention au détail, composition, es
 
 **🌍 Web Accessible**
 
-Un web pour tous, pas pour quelques-uns. Je construis des interfaces claires, rapides, pensées pour l'humain — peu importe le device ou le niveau tech.
+Un web pour tous, pas pour quelques-uns. Je construis des interfaces claires, rapides, pensées pour l'humain, peu importe le device ou le niveau tech.
 
 </td>
 </tr>

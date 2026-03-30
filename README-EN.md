@@ -33,7 +33,7 @@
 
 <br/>
 
-> *✨ Profile rebuilt in 2025 — because a good dev knows how to refactor their online presence too.*
+> *✨ Profile rebuilt in 2025, because a good dev knows how to refactor their online presence too.*
 
 </div>
 
@@ -45,9 +45,9 @@
 <tr>
 <td valign="top" width="55%">
 
-### Morgan Reichert — Web Developer & Founder of STARIAX
+### Morgan Reichert • Web Developer & Founder of STARIAX
 
-17-year-old from Brussels, passionate about tech for as long as I can remember. I specialize in **web development** and over the past few months I've been integrating **artificial intelligence** into all of my projects — to automate processes, improve user experience and build truly intelligent apps.
+17-year-old from Brussels, passionate about tech for as long as I can remember. I specialize in **web development** and over the past few months I've been integrating **artificial intelligence** into all of my projects, to automate processes, improve user experience and build truly intelligent apps.
 
 What sets me apart? Every app I build has a **social dimension**: addressing a healthcare need, a safety concern, or simply reducing the mental load of everyday life.
 
@@ -68,7 +68,7 @@ What sets me apart? Every app I build has a **social dimension**: addressing a h
 </tr>
 </table>
 
-> 💡 *I believe technology should serve people — not the other way around.*
+> 💡 *I believe technology should serve people, not the other way around.*
 
 ---
 
@@ -117,7 +117,7 @@ What sets me apart? Every app I build has a **social dimension**: addressing a h
 
 ---
 
-## 🚀 STARIAX — My Projects
+## 🚀 STARIAX • My Projects
 
 <div align="center">
 
@@ -160,7 +160,7 @@ AI is a concrete tool, not a buzzword. I integrate it into every app to automate
 
 **🚑 Social Impact**
 
-My projects address real needs: safety, well-being, productivity. As a passionate first responder, I believe tech can save time — and sometimes much more.
+My projects address real needs: safety, well-being, productivity. As a passionate first responder, I believe tech can save time, and sometimes much more.
 
 </td>
 </tr>
