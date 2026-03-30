@@ -12,7 +12,7 @@
 <!-- ║  📸 REMPLACE CE LIEN PAR TON VRAI AVATAR ║ -->
 <!-- ║  ex: https://avatars.githubusercontent.com/u/XXXXXX -->
 <!-- ╚══════════════════════════════════════════╝ -->
-<img src="https://placehold.co/150x150/1e1b4b/a78bfa?text=📷" width="150" height="150" alt="Morgan Reichert" />
+<img src="https://i.postimg.cc/L5tf6L2x/Gemini-Generated-Image-wcryrcwcryrcwcry.png" width="150" height="150" alt="Morgan Reichert" />
 
 <br/><br/>
 
