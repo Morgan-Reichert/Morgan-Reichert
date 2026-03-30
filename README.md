@@ -208,6 +208,6 @@ Un web pour tous, pas pour quelques-uns. Je construis des interfaces claires, ra
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:302b63,100:0f0c29&height=120&section=footer" />
 
-*Fait avec 💜 à Bruxelles · MORGAN .R © 2026*
+*Fait avec 💜 (et clavier) à Bruxelles · MORGAN .R © 2026*
 
 </div>
