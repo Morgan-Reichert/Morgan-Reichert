@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Salut%2C+moi+c'est+Morgan+%F0%9F%91%8B;D%C3%A9veloppeur+Web+%26+Passionn%C3%A9+d'IA+%F0%9F%A4%96;Bruxelles+%C2%B7+17+ans+%C2%B7+Fondateur+STARIAX;Je+construis+des+apps+%C3%A0+impact+r%C3%A9el+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Hello%2C+moi+c'est+Morgan+%F0%9F%91%8B;D%C3%A9veloppeur+Web+%26+Passionn%C3%A9+d'IA+%F0%9F%A4%96;Bruxelles+%C2%B7+17+ans+%C2%B7+Fondateur+STARIAX;Je+construis+des+apps+%C3%A0+impact+r%C3%A9el+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
