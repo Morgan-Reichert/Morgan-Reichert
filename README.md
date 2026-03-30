@@ -229,7 +229,7 @@ NightWatch entre en phase de test ! L'app iOS + Web de veille sociale intelligen
 
 Le site officiel du groupe STARIAX est en ligne. Il centralise toutes les apps, présente l'écosystème et évolue en continu avec chaque nouveau projet.
 
-[![Voir le site](https://img.shields.io/badge/→%20Voir%20le%20site-10b981?style=flat-square&logo=vercel)]([https://github.com/Morgan-Reichert/stariax-showcase](https://stariax-showcase.vercel.app/))
+[![Voir le site](https://img.shields.io/badge/→%20Voir%20le%20site-10b981?style=flat-square&logo=vercel)](https://stariax-showcase.vercel.app/)
 
 </td>
 </tr>
