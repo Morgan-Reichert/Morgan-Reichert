@@ -147,6 +147,137 @@ Ce qui me différencie ? Chacune de mes apps a une **dimension sociale** : répo
 
 ---
 
+## 📢 Actualités & Annonces
+
+> 🖼️ **Comment ajouter une image / publication :**
+> 1. Va sur ce repo → onglet **`Add file` → `Upload files`** → glisse ton image → **Commit**
+> 2. L'URL de ton image sera : `https://raw.githubusercontent.com/Morgan-Reichert/Morgan-Reichert/main/NOM_IMAGE.png`
+> 3. Copie un bloc `<tr>` ci-dessous, colle-le en premier, remplis le texte et l'URL image
+
+<table>
+
+<!-- ╔═══════════════════════════════════════════════════════╗ -->
+<!-- ║  MODÈLE D'ANNONCE — copie ce bloc pour chaque news   ║ -->
+<!--                                                         -->
+<!-- <tr>                                                     -->
+<!-- <td width="38%" align="center">                         -->
+<!--   <img src="URL_DE_TON_IMAGE" width="100%" alt="titre"> -->
+<!-- </td>                                                    -->
+<!-- <td width="62%" valign="top">                           -->
+<!--                                                         -->
+<!-- **🔖 TITRE DE L'ANNONCE**                               -->
+<!-- `📅 Mois Année`                                         -->
+<!--                                                         -->
+<!-- Description courte de la news.                          -->
+<!--                                                         -->
+<!-- [![Voir](badge_url)](lien)                              -->
+<!-- </td>                                                    -->
+<!-- </tr>                                                    -->
+<!-- ╚═══════════════════════════════════════════════════════╝ -->
+
+<tr>
+<td width="38%" align="center">
+
+![MindScope Launch](https://placehold.co/400x220/1e1b4b/a78bfa?text=📸+Ajoute+ton+image+ici)
+<!-- Remplace ce lien par ton screenshot MindScope -->
+
+</td>
+<td width="62%" valign="top">
+
+**🧠 MindScope v1.0 — Lancement officiel**
+`📅 Mars 2025`
+
+MindScope est en ligne ! L'outil d'analyse de pensée assisté par IA est maintenant disponible. Suivez vos réflexions, identifiez vos patterns mentaux et progressez avec l'aide de l'intelligence artificielle.
+
+[![Voir MindScope](https://img.shields.io/badge/→%20Voir%20MindScope-7c3aed?style=flat-square&logo=github)](https://github.com/Morgan-Reichert/mindscope)
+[![Tester la bêta](https://img.shields.io/badge/🧪%20Tester%20la%20bêta-10b981?style=flat-square)](mailto:morgan.reichert.pro@outlook.com?subject=Beta%20MindScope)
+
+</td>
+</tr>
+
+<tr>
+<td width="38%" align="center">
+
+![NightWatch](https://placehold.co/400x220/0f0c29/c4b5fd?text=📸+Ajoute+ton+image+ici)
+<!-- Remplace ce lien par ton screenshot NightWatch -->
+
+</td>
+<td width="62%" valign="top">
+
+**🌙 NightWatch — Bêta ouverte**
+`📅 Mars 2025`
+
+NightWatch entre en phase de test ! L'app iOS + Web de veille sociale intelligente est disponible pour les bêta-testeurs. Tu veux faire partie des premiers ? Contacte-moi.
+
+[![Voir NightWatch](https://img.shields.io/badge/→%20Voir%20NightWatch-302b63?style=flat-square&logo=github)](https://github.com/Morgan-Reichert/nightwatch)
+[![Rejoindre la bêta](https://img.shields.io/badge/🧪%20Rejoindre%20la%20bêta-f59e0b?style=flat-square)](mailto:morgan.reichert.pro@outlook.com?subject=Beta%20NightWatch)
+
+</td>
+</tr>
+
+<tr>
+<td width="38%" align="center">
+
+![Stariax Showcase](https://placehold.co/400x220/302b63/ffffff?text=📸+Ajoute+ton+image+ici)
+<!-- Remplace ce lien par un screenshot de stariax-showcase -->
+
+</td>
+<td width="62%" valign="top">
+
+**✨ Stariax Showcase — Site vitrine live**
+`📅 Mars 2025`
+
+Le site officiel du groupe STARIAX est en ligne. Il centralise toutes les apps, présente l'écosystème et évolue en continu avec chaque nouveau projet.
+
+[![Voir le site](https://img.shields.io/badge/→%20Voir%20le%20site-10b981?style=flat-square&logo=vercel)](https://github.com/Morgan-Reichert/stariax-showcase)
+
+</td>
+</tr>
+
+<tr>
+<td width="38%" align="center">
+
+![Challenger IA](https://placehold.co/400x220/1e1b4b/f59e0b?text=⚡+Coming+Soon)
+
+</td>
+<td width="62%" valign="top">
+
+**⚡ Challenger IA — En cours de développement**
+`📅 À venir · 2025`
+
+La prochaine app STARIAX est en cours. Une plateforme de challenges gamifiés propulsée par l'IA — suivez les mises à jour ici ou contactez-moi pour être notifié au lancement.
+
+[![M'avertir au lancement](https://img.shields.io/badge/🔔%20M'avertir-7c3aed?style=flat-square)](mailto:morgan.reichert.pro@outlook.com?subject=Notify%20Challenger%20IA)
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🧪 Tester mes apps en version Bêta
+
+<div align="center">
+
+> **Tu veux être parmi les premiers à tester mes applications ?**
+> Je recherche des bêta-testeurs pour **MindScope**, **NightWatch** et **Challenger IA**.
+> Pas besoin d'être développeur — juste curieux et honnête dans tes retours !
+
+<br/>
+
+[![Tester MindScope](https://img.shields.io/badge/🧠%20Tester%20MindScope-7c3aed?style=for-the-badge)](mailto:morgan.reichert.pro@outlook.com?subject=Beta%20MindScope)
+[![Tester NightWatch](https://img.shields.io/badge/🌙%20Tester%20NightWatch-302b63?style=for-the-badge)](mailto:morgan.reichert.pro@outlook.com?subject=Beta%20NightWatch)
+[![Être notifié Challenger IA](https://img.shields.io/badge/⚡%20Challenger%20IA%20%E2%80%94%20me%20notifier-f59e0b?style=for-the-badge)](mailto:morgan.reichert.pro@outlook.com?subject=Notify%20Challenger%20IA)
+
+<br/>
+
+*Envoie simplement un mail avec l'app qui t'intéresse — je te recontacte sous 48h* 📬
+
+</div>
+
+---
+
 ## 💫 Ce qui me motive
 
 <table>
