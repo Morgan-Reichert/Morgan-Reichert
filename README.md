@@ -8,11 +8,7 @@
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║  📸 REMPLACE CE LIEN PAR TON VRAI AVATAR ║ -->
-<!-- ║  ex: https://avatars.githubusercontent.com/u/XXXXXX -->
-<!-- ╚══════════════════════════════════════════╝ -->
-<img src="https://i.postimg.cc/L5tf6L2x/Gemini-Generated-Image-wcryrcwcryrcwcry.png" width="150" height="150" alt="Morgan Reichert" />
+<img src="https://raw.githubusercontent.com/Morgan-Reichert/Morgan-Reichert/main/morgan.png" width="160" height="160" alt="Morgan Reichert" />
 
 <br/><br/>
 
@@ -31,23 +27,34 @@
 
 ## 🙋 À propos de moi
 
-```ts
-const morgan = {
-  name        : "Morgan Reichert",
-  age         : 17,
-  location    : "Bruxelles, Belgique 🇧🇪",
-  role        : "Développeur Web & Fondateur de STARIAX",
-  spécialisé  : ["Web statique", "Intégration IA", "UI/UX soigné"],
-  passions    : ["Tech & IA 🤖", "Photographie 📷", "Secourisme 🚑", "Web 🌐"],
-  en_ce_moment: "Intégrer l'IA dans chacun de mes projets",
-  objectif    : "Créer des apps utiles, accessibles et à impact social",
-  disponible  : true,
-};
-```
+<table>
+<tr>
+<td valign="top" width="55%">
 
-> 💡 **Je crois que la technologie doit être au service des gens.**
-> Parti du web statique, j'intègre aujourd'hui l'IA dans la totalité de mes projets — pour automatiser, personnaliser, et apporter une vraie valeur à l'utilisateur.
-> Chaque app que je crée répond à un besoin réel : sanitaire, sécuritaire, ou simplement alléger la charge du quotidien.
+### Morgan Reichert — Développeur Web & Fondateur STARIAX
+
+Bruxellois de 17 ans, passionné de tech depuis toujours. Je suis spécialisé en **développement web** et depuis quelques mois, j'intègre **l'intelligence artificielle** dans la totalité de mes projets — pour automatiser les processus, faciliter la vie des utilisateurs et créer des expériences vraiment intelligentes.
+
+Ce qui me différencie ? Chacune de mes apps a une **dimension sociale** : répondre à un besoin sanitaire, sécuritaire, ou simplement alléger la charge mentale du quotidien.
+
+</td>
+<td valign="top" width="45%">
+
+| | |
+|---|---|
+| 📍 | Bruxelles, Belgique 🇧🇪 |
+| 🎂 | 17 ans |
+| 💼 | Développeur Web · Fondateur STARIAX |
+| 🤖 | Intégration IA dans chaque projet |
+| 🚑 | Secouriste passionné |
+| 📷 | Photographe amateur |
+| 🟢 | **Disponible · Ouvert aux opportunités** |
+
+</td>
+</tr>
+</table>
+
+> 💡 *Je crois que la technologie doit être au service des gens — pas l'inverse.*
 
 ---
 
