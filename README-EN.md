@@ -74,7 +74,7 @@ What sets me apart? Every app I build has a **social dimension**: addressing a h
 
 ## 🛠️ Tech Stack
 
-<!--> ✏️ *To add a technology: copy an `<img>` badge and change the `label` and `logo` on [shields.io](https://shields.io/badges/static-badge)*
+<!--> ✏️ *To add a technology: copy an `<img>` badge and change the `label` and `logo` on [shields.io](https://shields.io/badges/static-badge)*-->
 
 ### 🌐 Frontend
 <p>
