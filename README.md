@@ -196,8 +196,8 @@ Un web pour tous, pas pour quelques-uns. Je construis des interfaces claires, ra
 <br/>
 
 <!-- ✏️ REMPLACE les liens par tes vrais profils -->
-[![Email](https://img.shields.io/badge/Email-Envoie_un_mail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@stariax.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan_Reichert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/morgan-reichert)
+[![Email](https://img.shields.io/badge/Email-Envoie_un_mail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morgan.reichert.pro@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan_Reichert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/morgan-reichert-tech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Stariax_Showcase-302b63?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Morgan-Reichert/stariax-showcase)
 
 </div>
@@ -208,6 +208,6 @@ Un web pour tous, pas pour quelques-uns. Je construis des interfaces claires, ra
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:302b63,100:0f0c29&height=120&section=footer" />
 
-*Fait avec 💜 à Bruxelles · STARIAX © 2025*
+*Fait avec 💜 à Bruxelles · MORGAN .R © 2026*
 
 </div>
