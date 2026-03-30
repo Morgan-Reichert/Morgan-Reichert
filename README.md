@@ -8,6 +8,16 @@
 
 <div align="center">
 
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷-Français-7c3aed?style=flat-square)](./README.md)&nbsp;
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧-English-302b63?style=flat-square)](./README-EN.md)&nbsp;
+[![🇳🇱 Nederlands](https://img.shields.io/badge/🇳🇱-Nederlands-1e1b4b?style=flat-square)](./README-NL.md)
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Morgan-Reichert/Morgan-Reichert/main/morgan.png" width="160" height="160" alt="Morgan Reichert" />
 
 <br/><br/>
@@ -20,6 +30,10 @@
 [![STARIAX](https://img.shields.io/badge/Groupe-STARIAX-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Morgan-Reichert?tab=repositories)
 [![Bruxelles](https://img.shields.io/badge/📍-Bruxelles%2C+Belgique-302b63?style=for-the-badge)](#)
 [![Age](https://img.shields.io/badge/🎂-17+ans-1e1b4b?style=for-the-badge)](#)
+
+<br/>
+
+> *✨ Profil restructuré en 2025 — parce qu'un bon dev sait aussi refactoriser sa présence en ligne.*
 
 </div>
 
@@ -176,12 +190,18 @@ Un web pour tous, pas pour quelques-uns. Je construis des interfaces claires, ra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Morgan-Reichert&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morgan-Reichert&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Morgan-Reichert&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morgan-Reichert&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Morgan-Reichert&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" />
+
+<br/><br/>
+
+<!-- These are not bugs, these are features -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=morganrht&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&count_private=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morganrht&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&langs_count=6&hide_title=true" />
 
 </div>
 
