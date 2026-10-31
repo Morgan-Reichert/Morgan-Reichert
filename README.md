@@ -25,10 +25,10 @@ Je suis un **touche-à-tout** : j'aime découvrir et apprendre, avec une spécia
 
 | | |
 |---|---|
-| **Conseil web** — PME | Accompagnement sur la présence en ligne et l'infrastructure web. |
-| **Développement sur mesure** — PME | Sites et applications web adaptés à l'activité de chaque entreprise. |
-| **Solutions IA & agents** — PME · Bruxelles-Capitale | Intégration de solutions d'intelligence artificielle et d'agents développés sur mesure. |
-| **Espaces membres** — Associations | Création d'intranets et d'espaces membres pour les besoins de différentes associations. |
+| **Conseil web** (PME) | Accompagnement sur la présence en ligne et l'infrastructure web. |
+| **Développement** | Sites et applications web adaptés à l'activité de chaque entreprise. |
+| **Solutions IA & agents** (PME) · Bruxelles-Capitale | Intégration de solutions d'intelligence artificielle et d'agents développés sur mesure. |
+| **Espaces membres** (Associations) | Création d'intranets et d'espaces membres pour les besoins de différentes associations. |
 | **Hackathons & pré-production** | J'accompagne des entreprises sur le côté technique de leurs projets en phase de pré-production, avant de passer la main à des équipes de développement plus complètes. |
 
 ## Projets phares
